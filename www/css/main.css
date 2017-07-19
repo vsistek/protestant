@@ -1,0 +1,61 @@
+body  {
+	font-size: 12px;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin: 0px auto;
+	padding: 50px 0px 0px 0px;
+	color: #888888;
+	background:  #ffffff;
+}
+
+h1 {
+	font-size: 14px;
+	color: #000000;
+}
+
+h2 {
+	font-size: 14px;
+}
+
+a:link {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:active {
+	color: #ff0000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff0000;
+	text-decoration: underline;
+}
+
+.center {
+	text-align: center;
+}
+
+hr#main {
+	border: 0px;
+	width: 400px;
+	height: 1px;
+	color: #888888;
+	background-color: #888888;
+}
+
+#definice {
+	text-align: left;
+	width: 400px;
+	margin: 0px auto;
+}
+
+#rozcestnik {
+	text-align: left;
+	width: 400px;
+	margin: 0px auto;
+}
